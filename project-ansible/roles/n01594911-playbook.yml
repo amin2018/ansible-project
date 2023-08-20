@@ -1,7 +1,0 @@
----
-- hosts: all
-  roles:
-    - datadisk-n01594911
-    - profile-n01594911
-    - user-n01594911
-    - webserver-n01594911
